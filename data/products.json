@@ -1,0 +1,38 @@
+[
+  {
+    "id": "a9845e39-fcef-4634-a779-9400ef956ca7",
+    "name": "Coat",
+    "price": "2000000",
+    "quantity": "20"
+  },
+  {
+    "id": "8bc02d2e-efd8-4ac1-bf39-59772c9562bb",
+    "name": "T-Shirt",
+    "price": "350000",
+    "quantity": "200"
+  },
+  {
+    "id": "fc07f711-dae7-48f3-984e-47b341eacfaf",
+    "name": "Socks",
+    "price": "80000",
+    "quantity": "100"
+  },
+  {
+    "id": "a1b5fa91-96f2-4f1d-aa25-fcc5113232e3",
+    "name": "Skirt",
+    "price": "250000",
+    "quantity": "50"
+  },
+  {
+    "id": "a8454447-3228-4dfd-b0b7-68a5fac9f023",
+    "name": "Jeans",
+    "price": "800000",
+    "quantity": "10"
+  },
+  {
+    "id": "a73114f4-6668-4732-9f52-e425755d9e80",
+    "name": "Pencil",
+    "price": "800000",
+    "quantity": "10"
+  }
+]
